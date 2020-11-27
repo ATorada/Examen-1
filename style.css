@@ -1,0 +1,42 @@
+main {
+    text-align: center;
+}
+body{
+    background-color: rgb(231, 206, 255);
+}
+
+section{
+    border: 2px black solid;
+    width: 50vh;
+    background-color: rgb(241, 226, 255);
+    border-radius: 20px 20px 20px 20px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 1%;
+    
+}
+
+h4{
+    font-style: oblique;
+    letter-spacing: 2px;
+}
+
+a:hover{
+    color: hotpink;
+}
+
+header {
+    text-align: center;
+    font-size:30px;
+    margin-bottom: 2%;
+    color: rgb(43, 0, 73);
+    text-decoration:underline ;
+}
+
+address {
+    border: black 1px solid;
+padding: 1%;
+text-align: center;
+margin-top: 2%;
+background-color: white;
+}
